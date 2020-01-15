@@ -1,0 +1,10 @@
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/User.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/FirestoreTemplateTests.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/it/UserService.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/repository/query/PartTreeFirestoreQueryTests.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/mapping/FirestorePersistentEntityImplTests.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/it/FirestoreRepositoryIntegrationTests.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/it/UserRepository.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/it/FirestoreIntegrationTestsConfiguration.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/transaction/ReactiveFirestoreTransactionManagerTest.java
+/Users/ssinghal/pivotal.io/gcp-spring-examples/spring-samples/google-cloud/spring-cloud-gcp-data-firestore/src/test/java/org/springframework/cloud/gcp/data/firestore/it/FirestoreIntegrationTests.java

@@ -1,0 +1,13 @@
+org/springframework/cloud/gcp/data/firestore/it/FirestoreIntegrationTests.class
+org/springframework/cloud/gcp/data/firestore/User.class
+org/springframework/cloud/gcp/data/firestore/repository/query/PartTreeFirestoreQueryTests.class
+org/springframework/cloud/gcp/data/firestore/it/FirestoreIntegrationTestsConfiguration.class
+org/springframework/cloud/gcp/data/firestore/mapping/FirestorePersistentEntityImplTests$Student.class
+org/springframework/cloud/gcp/data/firestore/transaction/ReactiveFirestoreTransactionManagerTest.class
+org/springframework/cloud/gcp/data/firestore/it/UserRepository.class
+org/springframework/cloud/gcp/data/firestore/FirestoreTemplateTests$TestEntity.class
+org/springframework/cloud/gcp/data/firestore/it/FirestoreRepositoryIntegrationTests.class
+org/springframework/cloud/gcp/data/firestore/mapping/FirestorePersistentEntityImplTests.class
+org/springframework/cloud/gcp/data/firestore/FirestoreTemplateTests.class
+org/springframework/cloud/gcp/data/firestore/it/UserService.class
+org/springframework/cloud/gcp/data/firestore/mapping/FirestorePersistentEntityImplTests$Employee.class
